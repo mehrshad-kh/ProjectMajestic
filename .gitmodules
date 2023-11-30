@@ -1,0 +1,9 @@
+[submodule "Majestic"]
+	path = Majestic
+	url = https://github.com/mehrshad-kh/Majestic
+[submodule "MajesticAdmin"]
+	path = MajesticAdmin
+	url = https://github.com/mehrshad-kh/MajesticAdmin
+[submodule "MajesticServer"]
+	path = MajesticServer
+	url = https://github.com/mehrshad-kh/MajesticServer
